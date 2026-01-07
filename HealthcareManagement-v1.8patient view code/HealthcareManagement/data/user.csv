@@ -1,0 +1,3 @@
+user_id,username,password,role,related_id
+U001,patient1,patient1,PATIENT,P001
+U001,staff1,staff1,STAFF,ST001
